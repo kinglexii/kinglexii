@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kinglexii
 - 👀 I’m interested in Artificial Intelligence, Agriculture and Development Economics
-- 🌱 I’m currently learning Machine Learning , R programming and Digital Marketting
+- 🌱 I’m currently learning Machine Learning , R programming and Economic analysis
 - 💞️ I’m looking to collaborate on Agriculture and development economics projects, specifically those concerning sub-saharan Africa
 - 📫 How to reach me email me at Lexiiakaakar@gmail.com
 
